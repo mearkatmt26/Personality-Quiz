@@ -1,0 +1,23 @@
+body{
+  font-family: sans-serif;
+  background-color: #2a9273;
+}
+
+button{
+  background-color: #0c5a43;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+height: 80px;
+  width: 80px;
+  
+}
+
+.answer-block {
+  display: flex;
+}
